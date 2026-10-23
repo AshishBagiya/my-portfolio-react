@@ -132,7 +132,3 @@ npm run preview
 - **Email:** [contact@yourdomain.com](mailto:contact@yourdomain.com)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
